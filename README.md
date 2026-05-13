@@ -25,4 +25,3 @@ Estructura del Proyecto
 │   ├── css/
 │   ├── js/
 │   └── assets/
-└── README.md
