@@ -8,16 +8,18 @@ La aplicación se ejecuta dentro de un contenedor Docker basado en la imagen ofi
 
 El servicio se despliega en el puerto 80 y permite acceder al juego desde cualquier navegador web.
 
-Tecnologías Utilizadas
-Docker
-Nginx
-HTML5
-CSS3
-JavaScript
-Dockerfile
-FROM nginx
+Tecnologías Utilizadas:
+
+-Docker
+-Nginx
+-HTML5
+-CSS3
+-JavaScript
+-Dockerfile
+-FROM nginx
 
 Estructura del Proyecto
+´´´text
 .
 ├── Dockerfile
 ├── src/
